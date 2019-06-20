@@ -1,0 +1,25 @@
+p{
+    background-color:blue;
+}
+body{
+    background-color: rgb(37, 3, 70);
+}
+  h1{
+      color:orangered;
+  }
+ #html{
+     color:yellow;
+ }
+ li{
+color:red;
+ }
+ a{
+     color:yellow;
+ }
+ .weather-heading{
+     color:red;
+ }
+ .forcast{
+     color:blue;
+ }
+ 
